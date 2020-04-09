@@ -1,0 +1,4 @@
+#Thu Apr 09 14:30:34 IST 2020
+base.0=/Users/roshanchokshi/Documents/Flutter/quizzler-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
